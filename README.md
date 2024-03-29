@@ -1,4 +1,4 @@
-How to enter your name/email into coffee giveaway
+### How to enter your name/email into coffee giveaway
 1. Create github account and download GitHub desktop!
 2. Fork repository waltoncade/SeniorDesignExample (you should now see a repository under your account named "SeniorDesignExample")
 3. Clone YOUR forked repository to your desktop using GitHub Desktop (the repository you clone should be under YOUR account, not waltoncade) (NOTE: GitHub Desktop will know this is a forked repsitory, you should select the option to "contribute to original repository")
