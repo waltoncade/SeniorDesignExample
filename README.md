@@ -15,4 +15,4 @@ NOTE: Some of you will try to contribute to the same line (since you might be wo
 2. Resolve any merge conflicts and re-commit and push
 3. Restart from step 6 above!
 
-This is my first time trying this. I am sure you will encounter issues that I am not aware of. If you do, please send me an email and I will try to help, although my response may be delayed!
+This is my first time trying this. I am sure you will encounter issues that I am not aware of. If you do, please send me an email and I will try to help (please try google first!), although my response may be delayed!
