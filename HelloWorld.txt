@@ -10,3 +10,5 @@ Cade still loves Git
 Hello world!
 
 2024 Presentation!
+
+This is Cade in 2025, and he still loves Git
