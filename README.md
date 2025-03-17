@@ -1,3 +1,5 @@
+### Not holding coffee giveaway this semester
+
 ### How to enter your name/email into coffee giveaway
 1. Create github account and download GitHub desktop!
 2. Fork repository waltoncade/SeniorDesignExample (you should now see a repository under your account named "SeniorDesignExample")
